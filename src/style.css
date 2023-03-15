@@ -1,0 +1,17 @@
+.abc{
+    /* margin-top: 30px; */
+   display: flex;
+   column-gap: 40px;
+   /* grid-template-columns: 30px 200px auto 100px; */
+
+}
+.cardImage{
+    display: flex;
+    justify-content: end;
+}
+.details{
+    display: flex;
+    justify-content: flex-start;
+    padding:29px;
+   
+}
